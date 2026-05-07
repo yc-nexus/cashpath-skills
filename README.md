@@ -17,7 +17,7 @@
 cp -r .claude/skills/contradiction-analysis ~/your-project/.claude/skills/
 
 # 方法2：作为 git submodule
-git submodule add https://github.com/Joywise/cashpath-skills.git .claude/skills/cashpath
+git submodule add https://github.com/yc-nexus/cashpath-skills.git .claude/skills/cashpath
 ```
 
 ## 使用
